@@ -36,7 +36,7 @@ Nesta atividade, criamos um formulário para a inclusão de clientes. A interfac
 Nesta atividade, criamos uma página de cadastro que permite a inserção de informações do cliente em um layout simples e limpo. A página inclui links de navegação para outras operações como incluir, alterar, deletar e consultar.
 
 ### Arquivos
-- `atividade3`: Contém a estrutura HTML da página de cadastro.
+- `atividade3.html`: Contém a estrutura HTML da página de cadastro.
 - `atividade3.css`: Arquivo de estilo CSS que aplica uma aparência limpa e organizada à página.
 
 ### Instruções
